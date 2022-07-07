@@ -1,0 +1,3 @@
+[submodule "portage-overlay"]
+	path = portage-overlay
+	url = git@github.com:KatsutoshiOtogawa/portage-overlay.git
